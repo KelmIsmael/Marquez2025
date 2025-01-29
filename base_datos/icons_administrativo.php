@@ -12,7 +12,7 @@ function obtenerIconosPanel() {
     $rutas = [
         'Compra' => ['icono' => 'fa-shopping-cart', 'ruta' => '../facturacion/venta/venta.php'],
         'Venta' => ['icono' => 'fa-shopping-basket', 'ruta' => '../facturacion/venta/venta.php'],
-        'Reparación' => ['icono' => 'fa-tools', 'ruta' => '../../administrativo/pedidos_de_reparacion/index.php'],
+        'Reparación' => ['icono' => 'fa-tools', 'ruta' => '../administrativo/pedidos_de_reparacion/index.php'],
         'Reparación + Venta' => ['icono' => 'fa-exchange-alt', 'ruta' => '../pdf/facturaC.php'],
         'Comprobantes' => ['icono' => 'fa-file-alt', 'ruta' => '../pdf/opciones.html'],
     ];

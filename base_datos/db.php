@@ -1,8 +1,8 @@
 <?php
 
 // $servername = "arielon23.duckdns.org:3306"; 
-// $username = "marquez";        
-// $password = "marquez2024";     
+// $username = "ismael";        
+// $password = "isma2025";     
 // $dbname = "pruebas_marquez2"; 
 
 

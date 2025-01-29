@@ -1,4 +1,5 @@
 <?php
+
 include_once '../base_datos/db.php'; // Incluir la conexión a la base de datos
         // Iniciar la sesión si no ha sido iniciada
 if (session_status() == PHP_SESSION_NONE) {

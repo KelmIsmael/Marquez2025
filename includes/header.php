@@ -80,7 +80,7 @@
 </head>
 <body>
     <div id="title-container" class="container-fluid">
-        <img id="title-logo" src="../../sistema_marquez/pdf/logo.png" alt="Logo de la empresa">
+        <img id="title-logo" src="../../pdf/logo.png" alt="Logo de la empresa">
         <button id="title-button" onclick="moveTitle()">
             Marquez Comunicaciones
         </button>
